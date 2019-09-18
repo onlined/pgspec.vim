@@ -17,7 +17,7 @@ Plugin 'onlined/pgspec.vim'
 
 #### Neovim
 ```sh
-$ git clone https://github.com/onlined/pgspec.vim.git
+$ git clone https://github.com/onlined/pgspec.vim.git pgspec
 $ mkdir -p ~/.config/nvim/
 $ cp -R pgspec/ftdetect ~/.config/nvim/
 $ cp -R pgspec/syntax ~/.config/nvim/
@@ -25,7 +25,7 @@ $ cp -R pgspec/syntax ~/.config/nvim/
 
 #### Vim
 ```sh
-$ git clone https://github.com/onlined/pgspec.vim.git
+$ git clone https://github.com/onlined/pgspec.vim.git pgspec
 $ mkdir -p ~/.vim/
 $ cp -R pgspec/ftdetect ~/.vim/
 $ cp -R pgspec/syntax ~/.vim/
